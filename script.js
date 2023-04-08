@@ -6,7 +6,7 @@ const dateEl = document.querySelector('#date-picker');
 // Variables for countdown values
 let countdownTitle = '';
 let countdownDate = '';
-let countdownValue = Date;
+let countdownValue = '';
 let countdownActive;
 let savedCountdown;
 
